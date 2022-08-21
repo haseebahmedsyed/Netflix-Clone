@@ -1,0 +1,37 @@
+.banner{
+    max-height: 600px;
+    object-fit: contain;
+    margin: 0;
+    padding-top: 300px;
+    /* padding-left: 200px; */
+    padding-bottom: 500px;
+    /* width: 100%; */
+    max-width: 100%;
+    /* width: auto; */
+    /* height: auto; */
+
+}
+.banner_heading{
+    /* margin-top: 30px; */
+    color: white;
+    font-weight: 800;
+    padding-bottom: 20px;
+    font-size: 70px;
+    padding-left: 200px;
+    /* margin-bottom: 10px; */
+}
+.banner_desc{
+    color: white;
+    font-size: 170%;
+    font-weight: 500;
+    width: 1000px;
+    padding-left: 200px;
+
+    /* margin-bottom: 50px; */
+}
+.ending{
+    height: 7.4rem;
+    background-image: linear-gradient(to bottom  , transparent ,rgba(37,37,37,0.61),#111);
+    margin-top: 80px;
+    /* width: fit-content; */
+}

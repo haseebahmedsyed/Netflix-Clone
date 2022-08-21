@@ -1,0 +1,36 @@
+.navImg{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition : all 450ms;
+    transition-timing-function: ease-in;
+    z-index: 1
+
+}
+.navImgBlack{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #111;
+    transition : all 450ms;
+    transition-timing-function: ease-in;
+    z-index: 1
+
+}
+.img1{
+    height: 70px;
+    width: 180px;
+}
+.img2{
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
